@@ -1,7 +1,6 @@
-Here's the README file that documents the changes made to replace the Langchain REACT Agent with XAgent in the L3AGI framework.
-
-```markdown
 # L3AGI Framework Integration with XAgent
+
+![](https://github.com/ManavGora/XAgent-and-L3AGI-AIAgent/blob/main/image.png)
 
 ## Overview
 This project involves replacing the existing Langchain REACT Agent in the L3AGI framework with the XAgent framework.
